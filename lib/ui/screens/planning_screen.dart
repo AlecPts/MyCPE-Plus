@@ -1170,7 +1170,7 @@ class _CourseCard extends StatelessWidget {
         children: [
           // Time column
           SizedBox(
-            width: 56,
+            width: 64,
             child: Padding(
               padding: const EdgeInsets.only(left: 16, top: 16),
               child: Column(
